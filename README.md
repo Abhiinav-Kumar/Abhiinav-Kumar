@@ -4,11 +4,8 @@ Hi, I’m Abhinav Kumar P A, <br><br>a Full-Stack Software Engineer passionate a
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abhinav-kumar-p-a-27b23b304)
-<br>
-<a href="https://abhiinav-kumar.github.io/portfolio/" >
-  <img src="https://p.kindpng.com/picc/s/238-2384314_circle-hd-png-download.png" alt="Portfolio" width="50" height="30"/>
-</a>
-<br>
+[![Static Badge](https://img.shields.io/badge/Portfolio-yellow?style=plastic)](https://abhiinav-kumar.github.io/portfolio/)
+
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinavbytex@gmail.com) 
 
 # 💻 Tech Stack:
