@@ -8,6 +8,7 @@ Hi, I’m Abhinav Kumar P A, <br><br>a Full-Stack Software Engineer passionate a
 <a href="https://abhiinav-kumar.github.io/portfolio/" >
   <img src="https://p.kindpng.com/picc/s/238-2384314_circle-hd-png-download.png" alt="Portfolio" width="50" height="30"/>
 </a>
+<br>
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinavbytex@gmail.com) 
 
 # 💻 Tech Stack:
